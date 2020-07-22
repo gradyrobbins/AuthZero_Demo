@@ -7,6 +7,6 @@
 - [x] React Introduction
 - [x] What You Will Build with React
 - [x] Developing a Backend API with Node.js and Express
-- [ ] Developing Applications with React
+- [x] Developing Applications with React
 - [ ] Securing your React App
 - [ ] Conclusion
