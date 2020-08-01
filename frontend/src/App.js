@@ -6,7 +6,7 @@ import Questions from './Questions/Questions';
 import Callback from './Callback';
 import NewQuestion from './NewQuestion/NewQuestion';
 import SecuredRoute from './SecuredRoute/SecuredRoute';
-import {Route, withRouter} from 'react-router-dom';
+import {withRouter} from 'react-router-dom';
 import auth0Client from './Auth';
 
 
