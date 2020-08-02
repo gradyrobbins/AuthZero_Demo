@@ -25,6 +25,8 @@
 
 ```npm start``` should open http://localhost:8081 in your browser.  
 
+```node src```
+
 ## Conclusion 
 I learned about some important concepts that React introduces (like the component architecture and the JSX syntax). Then, I briefly learned how to create a backend API with Node.js and Express. After that, I learned how to create a nice React application and how to secure the whole thing with Auth0.
 
