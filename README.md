@@ -32,8 +32,7 @@
 ### start your React app
 ```npm install ```
 
-```npm start```
-
+```npm start``` should open http://localhost:3000 in your browser
 
 ## Conclusion 
 This tutorial has been deprecated as it doesn't align with our latest product guidance, and will be retired on July 24th, 2020.  
