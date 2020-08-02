@@ -35,9 +35,9 @@
 ```npm start``` should open http://localhost:3000 in your browser
 
 ## Conclusion 
-This tutorial has been deprecated as it doesn't align with our latest product guidance, and will be retired on July 24th, 2020.  
+This tutorial has been deprecated as it doesn't align with the latest product guidance, and will be retired August 2020.  
 
-The tutorial introduced a lot of different topics, I didn't really grasp all of them fully.  This was my first exposure to using Node.js and Express to create a backend API, and my first exposure to Auth0.  I barely touched the tip of the iceberg on some important concepts like the Component Lifecycle.  I know that React Hooks are a thing although I have not used them yet, myself.  Unfortunately, diving deep into these topics is not possible as it would make the article massive (more than it is already).  
+The tutorial introduced me to a lot of different topics, and I didn't really grasp all of them fully.  This was my first exposure to using Node.js and Express to create a backend API, and my first exposure to Auth0.  I barely touched the tip of the iceberg on some important concepts like the Component Lifecycle.  I know that React Hooks are a thing although I have not used them yet, myself.  Unfortunately, diving deep into these topics is not possible as it would make the article massive (more than it is already).  
 
 Ultimately I hope to incorporate Auth0 into my front end capstone
 
