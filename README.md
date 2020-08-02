@@ -12,7 +12,20 @@
 
 
 ## How to run this app:
+1. open a terminal in your operating system, move to a directory where you create your projects, and issue the following command:
+``` git clone https://github.com/gradyrobbins/AuthZero_Demo.git ```
 
+### move into it
+2. ```cd AuthZero_Demo```
+
+### move into backend directory 
+3. ```cd backend```
+
+### use NPM to start the project
+4. ```npm install```
+5. ```npm start```
+
+the npm start command should open http://localhost:8081 in your browser.  
 
 ## Conclusion 
 I learned about some important concepts that React introduces (like the component architecture and the JSX syntax). Then, I briefly learned how to create a backend API with Node.js and Express. After that, I learned how to create a nice React application and how to secure the whole thing with Auth0.
