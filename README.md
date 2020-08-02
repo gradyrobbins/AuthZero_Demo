@@ -4,7 +4,7 @@
 
 ## This FULLSTACK Application was built by following a [tutorial](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)  by  [Bruno Krebs](https://auth0.com/blog/authors/bruno-krebs/)
 
-:heavy_check_mark: FRONTEND using React to allow users to interact with each other asking and answering questions. 
+:heavy_check_mark: FRONTEND using React to allow users to interact with one another, asking and answering questions
 
 :heavy_check_mark: BACKEND API with Node.js and Express
 
@@ -20,12 +20,21 @@
 
 ```cd backend```
 
-### use NPM to start the project
+### use NPM to start the backend 
 ```npm install```
 
 ```npm start``` should open http://localhost:8081 in your browser.  
 
 ```node src```
+
+### navigate to AuthZero_Demo/frontend to run your React app
+
+```cd ../../frontend```
+
+### start your React app
+```npm install ```
+```npm start```
+
 
 ## Conclusion 
 I learned about some important concepts that React introduces (like the component architecture and the JSX syntax). Then, I briefly learned how to create a backend API with Node.js and Express. After that, I learned how to create a nice React application and how to secure the whole thing with Auth0.
