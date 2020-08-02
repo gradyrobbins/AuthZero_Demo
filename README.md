@@ -1,17 +1,16 @@
-# Q + A  App
 
 ![screenshot](./images/screenshot.png)
 
 
-## FULLSTACK Application
-## FRONTEND using React to allow users to interact with each other asking and answering questions. 
-## BACKEND API with Node.js and Express
-## And introduces AUTH0 technology to authenticate users 
+## This is a FULLSTACK Application
+-[x] FRONTEND using React to allow users to interact with each other asking and answering questions. 
+-[x] BACKEND API with Node.js and Express
+-[x] And introduces AUTH0 technology to authenticate users 
 
-### The [tutorial](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)  that I followed was written by: 
-### Bruno Krebs 
+### The [tutorial](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/) was written by:  Bruno Krebs 
 
 ## How to run this app:
+
 
 ### Conclusion 
 I learned about some important concepts that React introduces (like the component architecture and the JSX syntax). Then, I briefly learned how to create a backend API with Node.js and Express. After that, I learned how to create a nice React application and how to secure the whole thing with Auth0.
